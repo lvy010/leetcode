@@ -213,7 +213,7 @@ Thank you to all the people who have already contributed to this repo templates
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lvy010/Algo-Atlas&type=Date)](https://www.star-history.com/?repos=lvy010/Algo-Atlas&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=lvy010/Algo-Atlas&type=Date)](https://star-history.dera.page/#lvy010/Algo-Atlas&type=date)
 
 ---
 
